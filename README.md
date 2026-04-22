@@ -1,2 +1,2 @@
 # python-basics
-Projeto de estudos em Python
+Projetos de estudos em Python. 
